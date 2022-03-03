@@ -1,2 +1,2 @@
 # landing-page
-Creating a landing page from a provided image
+Creating a landing page with Flexbox using a provided example image from TheOdinProject
